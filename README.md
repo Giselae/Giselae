@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Giselae 
 - I'm mostly interested in frontend development but also in UX and project management
-- I’m currently learning Gatsby in my spare time and work as a system developer in a consulting company. 
+- I’m currently working as a developer at a consultant company
+- My personal project at the moment is to develop my homepage with Gatsby and Sanity 
 
 
 <!---
